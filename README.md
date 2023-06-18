@@ -1,0 +1,1 @@
+# MapserviceAuth_AWS_Amplify
