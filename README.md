@@ -1,7 +1,7 @@
 # MapserviceAuth_AWS_Amplify
 AWS Amplify의 cognito 인증 절차를 위한 React 기반 웹페이지 소스코드 입니다.
 
-웹소스는 AWS cognito를 사용하여 인증기능을 구현하고, 로그인 사용자를 [EC2 인스턴스(관련리포지토리)]() 로 리다이렉트 하기위한 내용이 포함되어 있습니다.
+웹소스는 AWS cognito를 사용하여 인증기능을 구현하고, 로그인 사용자를 [EC2 인스턴스(관련리포지토리)](https://github.com/asp1947/MapServiceforEC2Instance) 로 리다이렉트 하기위한 내용이 포함되어 있습니다.
 
 이하의 내용은 해당 프로젝트를 사용하기 위한 간략한 설명이며, 자세한 내용은
 
